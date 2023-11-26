@@ -6,6 +6,6 @@ Bharat-Internship program - Web Development
 
 # Task 2 github repo[CLICK HERE](https://github.com/Chethangowda8151/Bharat-Intern-Task1-Portfolio.github.io/tree/main/Task%202)
 
-# Task 2 github repo[CLICK HERE]()
+# Task 2 github repo[CLICK HERE](https://github.com/Chethangowda8151/Bharat-Intern-Task1-Portfolio.github.io/tree/main/Task%203)
 
 
